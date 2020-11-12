@@ -1,0 +1,154 @@
+commit 3b49776ad9c0b327f6b55b8e3f1dda8a1f90cab5
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Oct 8 19:29:54 2020 -0500
+
+    closed #15 optimized cache and passed Sphere test
+
+commit 32317af96a1640aede0ed6ff602076febfd70db9
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Oct 8 19:25:36 2020 -0500
+
+    closed #12 added SphereCollatz.py
+
+commit 71cc268be3b4432ea575b4591940fc90935e2cdc
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Oct 8 14:04:04 2020 -0500
+
+    closed #14 added inline comments
+
+commit b3d3e2e7486bd44d783b132be29c967f08343a57
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Oct 7 01:33:13 2020 +0000
+
+    Delete .coverage 3
+
+commit ab9ade23812d5848b938f4b04c941f28073d9ded
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Oct 7 01:33:02 2020 +0000
+
+commit d268507271986b8510909ef5e4bb3fbf331e4bbb
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Oct 6 20:10:37 2020 -0500
+
+    Changed test file locations after merge
+
+commit aadd5e8303acb46a3e5950501210ace3f64b8c32
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Oct 6 20:09:32 2020 -0500
+
+    Formatting with autopep8
+
+commit 8e076032a9b1379b05487ac02cb4a5d2f5a0526e
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 21:55:23 2020 -0500
+
+    Updated logs
+
+commit 56b5ffb17bad85ebd33b625ed2bf07537c2135b6
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 21:54:43 2020 -0500
+
+    Updated coverage output
+
+commit 5f1721304c39f3b41d20cb6a2720f483ce28e1bb
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 21:27:04 2020 -0500
+
+    Optimized coverage to 100 [issue 6]
+
+commit 4eca8ae201d8c4509504b5b6284e201266b27ab1
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 20:46:11 2020 -0500
+
+    Implemented lazy cache [issue 9]
+
+commit 5047ae63db7711e80082a79d152825afa527068e
+Merge: ccaac4f 0613e3a
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 20:33:35 2020 -0500
+
+    Fixed unit tests
+
+commit ccaac4fe31d704c4420ade2e138653977bb9a0fc
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 20:28:36 2020 -0500
+
+    Added 200 lines of acceptance tests
+
+commit 1f7cf9f7604d44d1a31a6357c4c8d14bf727efee
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 20:27:01 2020 -0500
+
+    Implemented lazy cache
+
+commit 2198a0f6a5056eb8f45fd407a0503fb2f82f0545
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 17:27:56 2020 -0500
+
+    Added more unit test cases
+
+commit 6c8cc986900ca57770b3e55d673894b4e11139e4
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 16:29:41 2020 -0500
+
+    Added corner and failure case unit tests
+
+commit 79be808234a7b151991f472d56ac1a302b055c14
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 16:27:42 2020 -0500
+
+    Fixed collatz_solve() method for corner test cases
+
+commit 15c68c230e1819a17c28d3a3ca0dee86f3fd6074
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 15:59:57 2020 -0500
+
+    Implemented collatz_eval() method with out cache
+
+commit ce806ebae9b23e9b21e1db05130156266b75c3eb
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 13:36:53 2020 -0500
+
+    Corrected unit test values
+
+commit 546571f2a92f706328f3454d5dec28b975ea11af
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 13:34:35 2020 -0500
+
+    Corrected unit test values
+
+commit 0613e3a2567615da5dde2896e4f01c0efba03017
+Author: Trey Everson <teverson25@me.com>
+Date:   Mon Oct 5 13:24:26 2020 -0500
+
+    updating
+
+commit 8a394e4bdac10473557875f87b7ddfa7658d9137
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Sep 22 12:45:58 2020 -0500
+
+    updating
+
+commit 12617a832dcb2ca190f8d483bf9335e3f19a42ac
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Sep 22 12:41:32 2020 -0500
+
+    first commit
+
+commit 45a3cbe33c6dfe7a910e989af9ed781ec5abbe33
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Sat Jun 6 10:35:45 2020 -0500
+
+    second commit
+
+commit 0cd09a5c9fb1a857dce11686104ab052d42b269b
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 11:11:36 2020 -0500
+
+    first commit
+
+commit 3390fe29f60392d73e1810e7b55331c613e4a1c5
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 16:02:55 2020 +0000
+
+    Initial commit
